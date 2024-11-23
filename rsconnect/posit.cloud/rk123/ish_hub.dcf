@@ -1,0 +1,12 @@
+name: ish_hub
+title: ish
+username: rk123
+account: rk123
+server: posit.cloud
+hostUrl: https://api.posit.cloud/v1
+appId: 9154698
+bundleId: 9311917
+url: https://posit.cloud/content/9154698
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

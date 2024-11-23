@@ -1,0 +1,12 @@
+name: ish1
+title: ish
+username: chat-hub
+account: chat-hub
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13221210
+bundleId: 9311998
+url: https://chat-hub.shinyapps.io/ish1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

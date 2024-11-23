@@ -1,0 +1,19 @@
+GMAILR_APP = "C:/Users/Rohit/Documents/client_secret_501947040660-rac98c7kmsq7p1423mm14v4spjm9oc0k.apps.googleusercontent.com.json"
+BOX_CLIENT_ID="ouau3hw2i8lu1io74u5vgsp7oxd2zctq"
+BOX_CLIENT_SECRET="jdHwXMdHeUprj5xWXgBVCknWsKvOxB9Z"
+BOX_TOKEN_FILE="C:/Users/Rohit/Documents/.boxr-auth/token.json"
+BOX_AUTH_ON_ATTACH="TRUE"
+BOX_TOKEN_CACHE=""
+## earlier runnable  file GCS_AUTH_FILE="C:/Users/Rohit/Documents/regexcite2/poetic-world-411704-494245240e40.json"
+R_AZURE_DATA_DIR="~/.local/share/Azure"
+#GCS_AUTH_FILE="poetic-world-411704-494245240e40.json"
+#earlier runnable  file GAR_CLIENT_JSON=C:/Users/Rohit/Documents/gcp_practice/client_secret_202064711923-cubakpnu79lmpomco2ha1eb476khvb89.apps.googleusercontent.com.json
+
+GCS_AUTH_FILE="WWW/spheric-crow-377302-68d30eae62fc.json"
+GAR_CLIENT_JSON=C:/Users/Rohit/Documents/gcp_practice/spheric-crow-377302-68d30eae62fc.json
+bq_auth(email = "wankrohit04@gmail.com",path = "WWW/spheric-crow-377302-28e6d3b3143a.json")
+
+
+
+
+
