@@ -32,12 +32,14 @@ library(rebus)
 library(bigrquery)
 options(shiny.port = 1221)
 my_project_id<-"spheric-crow-377302"
+#now 
 
+#now
 #
 #library(googlesheets4)
 #gs4_auth(email = "wankr362@gmail.com", cache = ".secrets")
-bq_auth(email = "wankrohit04@gmail.com",path = "WWW/spheric-crow-377302-28e6d3b3143a.json")
-Sys.setenv("GCS_AUTH_FILE" = "WWW/spheric-crow-377302-28e6d3b3143a.json")
+bq_auth(email = "wankrohit04@gmail.com",path = "WWW/spheric-crow-377302-c442e265da86.json")
+Sys.setenv("GCS_AUTH_FILE" = "WWW/spheric-crow-377302-c442e265da86.json")
 
 con<-dbConnect(bigquery(),project="spheric-crow-377302",dataset="Chat",biling=billing)
 
@@ -46,7 +48,7 @@ x1=tbl(con,"Chat")
 xx=x1%>%filter(Live=="Live_now")%>%collect()
 
 #xx=x1%>%collect()
-Sys.setenv("GCS_AUTH_FILE" = "spheric-crow-377302-28e6d3b3143a.json")
+Sys.setenv("GCS_AUTH_FILE" = "spheric-crow-377302-c442e265da86.json")
 
 
 

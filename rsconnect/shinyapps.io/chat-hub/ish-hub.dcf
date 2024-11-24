@@ -5,7 +5,7 @@ account: chat-hub
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13238763
-bundleId: 9401570
+bundleId: 9405915
 url: https://chat-hub.shinyapps.io/ish-hub/
 version: 1
 asMultiple: FALSE

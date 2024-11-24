@@ -9,9 +9,9 @@ R_AZURE_DATA_DIR="~/.local/share/Azure"
 #GCS_AUTH_FILE="poetic-world-411704-494245240e40.json"
 #earlier runnable  file GAR_CLIENT_JSON=C:/Users/Rohit/Documents/gcp_practice/client_secret_202064711923-cubakpnu79lmpomco2ha1eb476khvb89.apps.googleusercontent.com.json
 
-GCS_AUTH_FILE="WWW/spheric-crow-377302-68d30eae62fc.json"
+GCS_AUTH_FILE="WWW/spheric-crow-377302-c442e265da86.json"
 GAR_CLIENT_JSON=C:/Users/Rohit/Documents/gcp_practice/spheric-crow-377302-68d30eae62fc.json
-bq_auth(email = "wankrohit04@gmail.com",path = "WWW/spheric-crow-377302-28e6d3b3143a.json")
+bq_auth(email = "wankrohit04@gmail.com",path = "WWW/spheric-crow-377302-c442e265da86.json")
 
 
 
